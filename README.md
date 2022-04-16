@@ -26,5 +26,10 @@ Here are some ideas to get you started:
   <img align="center" alt="Mari-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Mari-docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
 </div>
-
   
+  
+<div> 
+  
+  ![Snake animation](https://github.com/marianaalves30/marianaalves30/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
