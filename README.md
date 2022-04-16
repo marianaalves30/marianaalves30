@@ -1,7 +1,5 @@
 ### Olá! 👋✨
 
-Here are some ideas to get you started:
-
 - 🔭 Hoje trabalho com aplicações .NET e Java
 - 🌱 .NET Core, AWS e boas práticas de desenvolvimento :)
 - 📫 How to reach me: marianaalves@ufu.br 
