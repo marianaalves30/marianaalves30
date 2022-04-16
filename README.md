@@ -1,7 +1,7 @@
 ### Olá! 👋✨
 
 - 🔭 Hoje trabalho com aplicações .NET e Java
-- 🌱 .NET Core, AWS e boas práticas de desenvolvimento :)
+- 🌱 .NET Core, Angular, AWS e boas práticas de desenvolvimento :)
 - 📫 How to reach me: marianaalves@ufu.br 
 - 😄 Pronouns: ela/dela
 - ⚡ Fun fact: tenho apenas um rim 😂
