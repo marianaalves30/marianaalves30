@@ -4,7 +4,6 @@
 - 🌱 .NET Core, Angular, AWS e boas práticas de desenvolvimento :)
 - 📫 How to reach me: marianaalves@ufu.br 
 - 😄 Pronouns: ela/dela
-- ⚡ Fun fact: tenho apenas um rim 😂
 
 <div align="center">
   <a href="https://github.com/marianaalves30">
